@@ -1,0 +1,10 @@
+{
+  "name": "Pocket Python",
+  "short_name": "Pocket Python",
+  "description": "Write, run, and save Python scripts on your phone.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0d0f16",
+  "theme_color": "#10131c"
+}
